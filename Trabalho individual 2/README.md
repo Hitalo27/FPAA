@@ -71,7 +71,7 @@ f(n)=O(1), que é menor que n.
 
 O diagrama abaixo mostra como o algoritmo divide o problema e combina os resultados:
 
-![Diagrama MaxMin Select](/DiagramaMaxMin.png)
+![Diagrama MaxMin Select](/Trabalho%20individual%202//DiagramaMaxMin.png)
 
 1. **Divisão do problema**  
    - O problema original com `n` elementos é dividido em duas metades (`n/2` cada).  
